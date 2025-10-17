@@ -158,7 +158,7 @@ If you need any help, you can contact the admin.
 Please do not disturb the admin unless you have a special need. Thank you!
 
 <p align="center">
-  <a href="https://wa.me/+8801540580575?text=Assalamualaikum%20Admin%20SHAHADAT%20SAHU%20Need%20Help%20Please%20Brother%20🫶">
+  <a href="https://wa.me/+8801540580575?text=Assalamualaikum%20Admin%20Shamim%20Vaiya%20Need%20Help%20Please%20Brother%20🫶">
     <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
   <a href="https://m.me/100051925606707">
