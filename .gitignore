@@ -1,0 +1,5 @@
+# Node.js dependencies
+node_modules
+
+# Session file (VERY IMPORTANT!)
+appstate.json
