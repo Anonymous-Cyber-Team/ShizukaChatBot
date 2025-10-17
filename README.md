@@ -1,19 +1,19 @@
 ---------
 
-### —͟͟͞͞𝐒𝐇𝐀𝐇𝐀𝐃𝐀𝐓 𝐂𝐇𝐀𝐓 𝐁𝐎𝐓  𝐅𝐎𝐑𝐊  🌺
+### ꧁★ꜱʜɪᴢᴜᴋᴀ★꧂ 𝐂𝐇𝐀𝐓 𝐁𝐎𝐓  𝐅𝐎𝐑𝐊  🌺
 
 ❖ **`A Messenger Multi Device Bot To Take Your Messenger To Another Level!`**
 
 
 
 Assalamualaikum Everyone!
-**Welcome to My SHAHADAT CHAT BOT Fork!**
+**Welcome to My ꧁★ꜱʜɪᴢᴜᴋᴀ★꧂ CHAT BOT Fork!**
 
 ![Box-shaped Image](https://i.imgur.com/kj2ANmV.png)
 
 <p align="center" style="animation: glow 2s infinite alternate; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-  <span style="font-size: 24px; font-weight: bold;">SHAHADAT CHAT BOT</span><br>
-  <span> Develop By SHAHADAT SAHU</span>
+  <span style="font-size: 24px; font-weight: bold;">꧁★ꜱʜɪᴢᴜᴋᴀ★꧂ CHAT BOT</span><br>
+  <span> Develop By Shamim Vaiya</span>
 </p>
 
 
@@ -133,14 +133,14 @@ ___
 
 ## 👨‍💻 **ABOUT THE DEVELOPER**
 
-**Name:** **`SHAHADAT ISLAM`**
-**Nice Name:** **`SA HU`**
-**Profession:** **`STUDENT & CHATBOT DEVELOPER`**
-**Location:** **`KHAGRACHARI, BANGLADESH`**
+**Name:** **`SHAMIM VAIYA`**
+**Nice Name:** **`DEVIL-X`**
+**Profession:** **`Cyber Security Experts`**
+**Location:** **`Darkweb`**
 
 ### 📞 **CONTACT INFORMATION**
 
-- **WhatsApp:** **[01882 333052](https://wa.me/+8801540580575)**
+- **WhatsApp:** **[01540580575](https://wa.me/+8801540580575)**
 - **Facebook:** **[Facebook ID](https://www.facebook.com/AnonymousCyberTeamOfficial)**
 - **Messenger:** **[Message Me](https://m.me/100051925606707)**
 
@@ -173,12 +173,12 @@ Please do not disturb the admin unless you have a special need. Thank you!
 - 🚀 **Cyber Bot Team**
 - 🧙‍♂️ **Ullash (Owner Cyber Bot Team)**
 - 🛡️ **Sujon (Admin Cyber Bot Team)**
-- 🎓 **Grandpa EJ (Owner Grandpa Academy)**
+- 🎓 **Team (Anonymous Cyber Team)**
 
 ---
 
 💖 **Thank You For Choosing 𝗦𝗵𝗮𝗵𝗮𝗱𝗮𝘁 𝗖𝗵𝗮𝘁 𝗕𝗼𝘁!**
-🗓️ _Release Date:_ `11/08/2025 at 02:00`
+🗓️ _Release Date:_ `17/10/2025 at 02:00`
 ⭐ **Please don't forget to give a star after forking! It really helps!**
 
 ---
@@ -188,11 +188,11 @@ Please do not disturb the admin unless you have a special need. Thank you!
 </p>
 
 <p align="center">
-  <a href="https://github.com/shahadat-sahu"><img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub"></a>
+  <a href="https://github.com/Anonymous-Cyber-Team"><img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub"></a>
   <a href="https://wa.me/+8801540580575"><img src="https://img.icons8.com/color/48/000000/whatsapp.png" alt="WhatsApp"></a>
   <a href="https://www.facebook.com/AnonymousCyberTeamOfficial"><img src="https://img.icons8.com/fluency/48/000000/facebook.png" alt="Facebook"></a>
-  <a href="https://t.me/+8EtzLXVG-REwYTM1"><img src="https://img.icons8.com/color/48/000000/telegram-app.png" alt="Telegram"></a>
-  <a href="https://youtube.com/@cyberbotcommunity"><img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube"></a>
+  <a href="https://t.me/shamim_vaiya"><img src="https://img.icons8.com/color/48/000000/telegram-app.png" alt="Telegram"></a>
+
 </p>
 
 **I hope you enjoy my fork! Thank you for supporting the cyber chat bot community!**
