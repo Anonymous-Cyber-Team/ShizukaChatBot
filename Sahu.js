@@ -1,1 +1,116 @@
-function _0x302f(_0x3cc2e9,_0x1d6297){const _0x55c20f=_0x52c4();return _0x302f=function(_0x344073,_0x181f27){_0x344073=_0x344073-(0x1*0x117d+-0x805*0x1+-0x1c*0x53);let _0x2e7228=_0x55c20f[_0x344073];return _0x2e7228;},_0x302f(_0x3cc2e9,_0x1d6297);}const _0x374ef=_0x302f;(function(_0x1975eb,_0x44465b){const _0x4e6f72=_0x302f,_0x1b632=_0x1975eb();while(!![]){try{const _0x2a3621=-parseInt(_0x4e6f72(0xa1))/(-0xa7*0x17+-0xc78+0x1b7a)+-parseInt(_0x4e6f72(0x6d))/(-0x231c+0xece+0x1450)*(-parseInt(_0x4e6f72(0x9c))/(0x2211+0x1*-0x61d+0x1bf1*-0x1))+-parseInt(_0x4e6f72(0xab))/(0x1052+0x1*0x1834+0x2882*-0x1)+parseInt(_0x4e6f72(0x64))/(-0x2410+-0x64f+-0x4*-0xa99)+parseInt(_0x4e6f72(0x71))/(-0xffd*0x1+-0x2346+0x3349)*(parseInt(_0x4e6f72(0x82))/(0x2*-0x1f3+-0x120c+-0xf*-0x177))+parseInt(_0x4e6f72(0xa9))/(-0x22cd+0x4*-0x7f3+-0x1cd*-0x25)*(-parseInt(_0x4e6f72(0xae))/(0x3*-0x8e4+0x1466+0x64f))+-parseInt(_0x4e6f72(0xb1))/(-0xae7*0x1+-0x1254+0x1d45)*(parseInt(_0x4e6f72(0xb2))/(0x92b+-0x45*0x8b+0x1c57));if(_0x2a3621===_0x44465b)break;else _0x1b632['push'](_0x1b632['shift']());}catch(_0x1c2389){_0x1b632['push'](_0x1b632['shift']());}}}(_0x52c4,-0x6db7*-0x5+-0xd9bd*0x3+0x4*0xab8c));const {spawn}=require(_0x374ef(0xc5)+_0x374ef(0x7b)),axios=require(_0x374ef(0x99)),logger=require(_0x374ef(0x91)+'g'),express=require(_0x374ef(0x73)),path=require(_0x374ef(0x74)),app=express(),port=process[_0x374ef(0x6f)][_0x374ef(0x88)]||0x1*0x1871+-0x1*-0x2a19+0x16*-0x197;function _0x52c4(){const _0x309687=['Server\x20err','842075YSHLmq','Permission','YAHzD','[\x20DESCRIPT','--async-st','error','/package.j','son','https://ra','2ZVLjFA','tJXLF','env','[\x20Stopped\x20','88482AdaGgf','countResta','express','path','ION\x20]','vVpCh','at-sahu/SH','GPEeg','AHzEs','message','ess','ercontent.','lUZhI','[\x20VERSION\x20','Bot\x20exited','sPoYj','join','133pMgwxF','stringify','\x20restarts.','ccurred:\x20','pbwEO','xcyxZ','PORT','okKUC','ohiIn','running\x20on','CeSHa','vfVyv','\x20to\x20port\x20','annot\x20bind','listen','./utils/lo','[\x20Restarti','descriptio','close','get','zcnoD','[\x20Starting','SVeUT','axios','yFWOa','te\x20info:\x20','307569ebcBpV','TvARt','EACCES','[\x20Error\x20]','HfKoN','84134eqeGRD','snqem','version','\x20denied.\x20C','ybRji','ljtMf','/5)','rnings','8IyNBMy','AFZvL','149076cDawCR','data','then','1596654KraDAg','--trace-wa','code','20DDGQKJ','568953njyGPA','/index.htm','Bot\x20stoppe','ng...\x20(','name','sDnrj','T-BOT/main','\x20with\x20code','xzTpg','SOYJQ','Version:\x20','.\x20Restarti','ack-traces','w.githubus','inherit','vPWRc','AHADAT-CHA','ng\x20]','Failed\x20to\x20','child_proc','\x20port\x20','ekeFP','An\x20error\x20o','catch','or:\x20','Server\x20is\x20','node','nhzTG','nqAbx','AEbsm','[\x20NAME\x20]','Main.js','rror\x20]','...','sendFile','jLrfF','com/shahad','oqrvG','fetch\x20upda','[\x20Update\x20E','d\x20after\x20'];_0x52c4=function(){return _0x309687;};return _0x52c4();}app[_0x374ef(0x95)]('/',function(_0x53dc08,_0x29d53f){const _0x518376=_0x374ef,_0x16ffed={'jLrfF':_0x518376(0xb3)+'l'};_0x29d53f[_0x518376(0xd4)](path[_0x518376(0x81)](__dirname,_0x16ffed[_0x518376(0xd5)]));}),app[_0x374ef(0x90)](port,()=>{const _0x147a6d=_0x374ef,_0x12c386={'SVeUT':function(_0x4df8ce,_0x1980b6,_0x5cab15){return _0x4df8ce(_0x1980b6,_0x5cab15);},'AFZvL':_0x147a6d(0x97)+'\x20]'};_0x12c386[_0x147a6d(0x98)](logger,_0x147a6d(0xcb)+_0x147a6d(0x8b)+_0x147a6d(0xc6)+port+_0x147a6d(0xd3),_0x12c386[_0x147a6d(0xaa)]);})['on'](_0x374ef(0x69),_0x5f4b66=>{const _0x109240=_0x374ef,_0x33f8fc={'CeSHa':function(_0x229484,_0x198b27){return _0x229484===_0x198b27;},'SOYJQ':_0x109240(0x9e),'lUZhI':function(_0x51bf37,_0x3247e9,_0x9e60b0){return _0x51bf37(_0x3247e9,_0x9e60b0);},'AEbsm':_0x109240(0x9f)};_0x33f8fc[_0x109240(0x8c)](_0x5f4b66[_0x109240(0xb0)],_0x33f8fc[_0x109240(0xbb)])?_0x33f8fc[_0x109240(0x7d)](logger,_0x109240(0x65)+_0x109240(0xa4)+_0x109240(0x8f)+_0x109240(0x8e)+port+'.',_0x33f8fc[_0x109240(0xcf)]):_0x33f8fc[_0x109240(0x7d)](logger,_0x109240(0xdb)+_0x109240(0xca)+_0x5f4b66[_0x109240(0x7a)],_0x33f8fc[_0x109240(0xcf)]);}),global[_0x374ef(0x72)+'rt']=global[_0x374ef(0x72)+'rt']||0x106c*0x1+0x1509+-0x1*0x2575;function startBot(_0x8cd26d){const _0x30114a=_0x374ef,_0x129da3={'pbwEO':function(_0x2fb029,_0x4fb4da){return _0x2fb029!==_0x4fb4da;},'sDnrj':function(_0x4c8b86,_0x3328fb){return _0x4c8b86<_0x3328fb;},'ybRji':function(_0x13d343,_0x3e441a,_0x9ab2d9){return _0x13d343(_0x3e441a,_0x9ab2d9);},'vPWRc':_0x30114a(0x92)+_0x30114a(0xc3),'tJXLF':function(_0x38de88){return _0x38de88();},'HfKoN':function(_0x1364b0,_0x1408fa,_0x5aefc4){return _0x1364b0(_0x1408fa,_0x5aefc4);},'YAHzD':_0x30114a(0x70)+']','nhzTG':_0x30114a(0x9f),'vfVyv':function(_0x2044dc,_0x53b8be,_0x7e3949){return _0x2044dc(_0x53b8be,_0x7e3949);},'AHzEs':_0x30114a(0x97)+'\x20]','snqem':function(_0x5844f1,_0x47ba29,_0x1a9a83,_0x53a366){return _0x5844f1(_0x47ba29,_0x1a9a83,_0x53a366);},'xzTpg':_0x30114a(0xcc),'vVpCh':_0x30114a(0xaf)+_0x30114a(0xa8),'oqrvG':_0x30114a(0x68)+_0x30114a(0xbe),'yFWOa':_0x30114a(0xd1),'xcyxZ':_0x30114a(0xc0),'ekeFP':_0x30114a(0x94),'ljtMf':_0x30114a(0x69)};if(_0x8cd26d)_0x129da3[_0x30114a(0x8d)](logger,_0x8cd26d,_0x129da3[_0x30114a(0x79)]);const _0x1c9280=_0x129da3[_0x30114a(0xa2)](spawn,_0x129da3[_0x30114a(0xba)],[_0x129da3[_0x30114a(0x76)],_0x129da3[_0x30114a(0xd7)],_0x129da3[_0x30114a(0x9a)]],{'cwd':__dirname,'stdio':_0x129da3[_0x30114a(0x87)],'shell':!![]});_0x1c9280['on'](_0x129da3[_0x30114a(0xc7)],_0x2ce859=>{const _0x3762be=_0x30114a;_0x129da3[_0x3762be(0x86)](_0x2ce859,-0x758+0x222f+-0x1*0x1ad7)&&_0x129da3[_0x3762be(0xb7)](global[_0x3762be(0x72)+'rt'],0xd44+-0x2*0x360+0x1*-0x67f)?(global[_0x3762be(0x72)+'rt']+=-0x22ed+0x17be+0xb30,_0x129da3[_0x3762be(0xa5)](logger,_0x3762be(0x7f)+_0x3762be(0xb9)+'\x20'+_0x2ce859+(_0x3762be(0xbd)+_0x3762be(0xb5))+global[_0x3762be(0x72)+'rt']+_0x3762be(0xa7),_0x129da3[_0x3762be(0xc1)]),_0x129da3[_0x3762be(0x6e)](startBot)):_0x129da3[_0x3762be(0xa0)](logger,_0x3762be(0xb4)+_0x3762be(0xda)+global[_0x3762be(0x72)+'rt']+_0x3762be(0x84),_0x129da3[_0x3762be(0x66)]);}),_0x1c9280['on'](_0x129da3[_0x30114a(0xa6)],_0x2ada96=>{const _0x1552b4=_0x30114a;_0x129da3[_0x1552b4(0xa5)](logger,_0x1552b4(0xc8)+_0x1552b4(0x85)+JSON[_0x1552b4(0x83)](_0x2ada96),_0x129da3[_0x1552b4(0xcd)]);});};axios[_0x374ef(0x95)](_0x374ef(0x6c)+_0x374ef(0xbf)+_0x374ef(0x7c)+_0x374ef(0xd6)+_0x374ef(0x77)+_0x374ef(0xc2)+_0x374ef(0xb8)+_0x374ef(0x6a)+_0x374ef(0x6b))[_0x374ef(0xad)](_0x3a7ed9=>{const _0x3a8015=_0x374ef,_0x4cbb86={'zcnoD':function(_0x310a43,_0x18e3b7,_0x40cdef){return _0x310a43(_0x18e3b7,_0x40cdef);},'GPEeg':_0x3a8015(0xd0),'ohiIn':_0x3a8015(0x7e)+']','TvARt':function(_0x8e979a,_0x354ae6,_0x762b8c){return _0x8e979a(_0x354ae6,_0x762b8c);},'nqAbx':_0x3a8015(0x67)+_0x3a8015(0x75)};_0x4cbb86[_0x3a8015(0x96)](logger,_0x3a7ed9[_0x3a8015(0xac)][_0x3a8015(0xb6)],_0x4cbb86[_0x3a8015(0x78)]),_0x4cbb86[_0x3a8015(0x96)](logger,_0x3a8015(0xbc)+_0x3a7ed9[_0x3a8015(0xac)][_0x3a8015(0xa3)],_0x4cbb86[_0x3a8015(0x8a)]),_0x4cbb86[_0x3a8015(0x9d)](logger,_0x3a7ed9[_0x3a8015(0xac)][_0x3a8015(0x93)+'n'],_0x4cbb86[_0x3a8015(0xce)]);})[_0x374ef(0xc9)](_0x3823ae=>{const _0x6453f3=_0x374ef,_0x19883e={'sPoYj':function(_0x4b18b2,_0x4c6ded,_0x262234){return _0x4b18b2(_0x4c6ded,_0x262234);},'okKUC':_0x6453f3(0xd9)+_0x6453f3(0xd2)};_0x19883e[_0x6453f3(0x80)](logger,_0x6453f3(0xc4)+_0x6453f3(0xd8)+_0x6453f3(0x9b)+_0x3823ae[_0x6453f3(0x7a)],_0x19883e[_0x6453f3(0x89)]);}),startBot();
+/*
+ * Sahu.js ফাইলের সম্পূর্ণ পাঠযোগ্য (de-obfuscated) এবং নির্ভুল ভার্সন।
+ * এই কোডটি একটি লঞ্চার বা মনিটর হিসেবে কাজ করে, যা মূল বট ফাইলটিকে (Main.js) চালু রাখে।
+ */
+
+// ===============================================================
+// ১. প্রয়োজনীয় মডিউলগুলো নিয়ে আসা হচ্ছে (Importing modules)
+// ===============================================================
+
+const { spawn } = require("child_process"); // অন্য জাভাস্ক্রিপ্ট ফাইল চালানোর জন্য (বট চালু করতে)
+const axios = require("axios"); // ইন্টারনেট থেকে ডেটা আনার জন্য (আপডেট চেক করতে)
+const logger = require("./utils/log"); // কনসোলে সুন্দরভাবে মেসেজ দেখানোর জন্য
+const express = require("express"); // ওয়েব সার্ভার তৈরির জন্য
+const path = require("path"); // ফাইলের পাথ বা অবস্থান নিয়ে কাজ করার জন্য
+
+// ===============================================================
+// ২. ওয়েব সার্ভার সেটআপ করা
+// ===============================================================
+
+const app = express(); // express অ্যাপ তৈরি করা হলো
+const port = process.env.PORT || 8080; // হোস্টিং প্ল্যাটফর্মের দেওয়া PORT অথবা লোকাল মেশিনের জন্য 8080 পোর্ট ব্যবহার করা হবে
+
+// এই অংশটি শুধু বটকে অনলাইনে সচল রাখার জন্য একটি ওয়েব সার্ভার তৈরি করে
+app.get("/", (req, res) => {
+  // কেউ যদি ওয়েবসাইটের মূল ঠিকানায় আসে, তাকে index.html ফাইলটি দেখানো হবে
+  res.sendFile(path.join(__dirname, "/index.html"));
+});
+
+// সার্ভারটি নির্দিষ্ট পোর্টে চালু করা হচ্ছে
+app
+  .listen(port, () => {
+    logger(`সার্ভার চালু হয়েছে এবং ${port} পোর্টে চলছে`, "[ সার্ভার ]");
+  })
+  .on("error", (err) => {
+    // সার্ভার চালু করতে কোনো সমস্যা হলে, সেটি এখানে দেখানো হবে
+    if (err.code === "EACCES") {
+      logger(`পোর্ট ${port} ব্যবহারে অনুমতি পাওয়া যায়নি।`, "[ সার্ভার এরর ]");
+    } else {
+      logger(`একটি অপ্রত্যাশিত এরর হয়েছে: ${err.message}`, "[ সার্ভার এরর ]");
+    }
+  });
+
+// ===============================================================
+// ৩. বট স্বয়ংক্রিয়ভাবে রিস্টার্ট করার ফাংশন
+// ===============================================================
+
+// একটি গ্লোবাল ভেরিয়েবল, যা হিসাব রাখে বট কতবার রিস্টার্ট হলো
+global.countRestart = 0;
+
+// বট চালু করার মূল ফাংশন
+function startBot(message) {
+  if (message) {
+    logger(message, "[ বট চালু হচ্ছে ]");
+  }
+
+  // 'node Main.js' কমান্ডটি চালিয়ে বটটিকে একটি নতুন প্রসেসে চালু করা হচ্ছে
+  const botProcess = spawn(
+    "node", // কমান্ড
+    ["Main.js", "--trace-warnings", "--async-stack-traces"], // আর্গুমেন্ট
+    {
+      cwd: __dirname, // বর্তমান ডিরেক্টরিতে কমান্ডটি চালাও
+      stdio: "inherit", // বটের সব আউটপুট এই কনসোলে দেখাও
+      shell: true,
+    }
+  );
+
+  // বট প্রসেসটি যখন বন্ধ হয়ে যাবে, তখন কী করতে হবে তা এখানে বলা আছে
+  botProcess.on("close", (code) => {
+    // 'code' হলো এক্সিট কোড। 0 মানে স্বাভাবিকভাবে বন্ধ হয়েছে, অন্য কিছু মানে ক্র্যাশ করেছে।
+    if (code !== 0 && global.countRestart < 5) {
+      // যদি বট ক্র্যাশ করে এবং ৫ বারের কম রিস্টার্ট হয়ে থাকে
+      global.countRestart++;
+      logger(
+        `বট বন্ধ হয়ে গেছে। কোড: ${code}। রিস্টার্ট হচ্ছে... (${global.countRestart}/5)`,
+        "[ রিস্টার্ট ]"
+      );
+      // বটটি আবার চালু করার জন্য ফাংশনটিকে আবার কল করা হলো
+      startBot();
+    } else if (global.countRestart >= 5) {
+      // যদি ৫ বার চেষ্টার পরেও বট চালু না হয়
+      logger("৫ বার রিস্টার্ট করার পরেও বট চালু করা যায়নি।", "[ বন্ধ ]");
+    }
+  });
+
+  // বট চালু হওয়ার সময় কোনো এরর হলে, তা এখানে ধরা হবে
+  botProcess.on("error", (error) => {
+    logger(
+      `বট চালু হতে একটি এরর হয়েছে: ${JSON.stringify(error)}`,
+      "[ বট এরর ]"
+    );
+  });
+}
+
+// ===============================================================
+// ৪. বট চালু করার আগে সর্বশেষ তথ্য যাচাই
+// ===============================================================
+
+axios
+  .get(
+    "https://raw.githubusercontent.com/shahadat-sahu/SHAHADAT-CHAT-BOT/main/package.json"
+  )
+  .then((res) => {
+    // যদি গিটহাব থেকে সফলভাবে তথ্য আনা যায়
+    logger(res.data.name, "[ বটের নাম ]");
+    logger("ভার্সন: " + res.data.version, "[ ভার্সন ]");
+    logger(res.data.description, "[ বর্ণনা ]");
+  })
+  .catch((err) => {
+    // যদি তথ্য আনতে কোনো সমস্যা হয়
+    logger("আপডেট তথ্য আনতে ব্যর্থ: " + err.message, "[ আপডেট এরর ]");
+  })
+  .finally(() => {
+    // উপরের কাজ সফল হোক বা ব্যর্থ, সবশেষে এই কাজটি হবেই
+    // এবার মূল বটটিকে চালু করা হচ্ছে
+    startBot();
+  });
